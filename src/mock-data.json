@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "month": "January",
+    "itemName": "pencils",
+    "unitPrice": 10,
+    "unitsSold": 34,
+    "netProfit": 340
+  },
+  {
+    "id": 2,
+    "month": "January",
+    "itemName": "erasers",
+    "unitPrice": 5,
+    "unitsSold": 72,
+    "netProfit": 360
+  },
+  {
+    "id": 3,
+    "month": "January",
+    "itemName": "sharpners",
+    "unitPrice": 7,
+    "unitsSold": 28,
+    "netProfit": 192
+  }
+]
